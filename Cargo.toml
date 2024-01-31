@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "stm32f411_pac",
+    "stm32f411_helloworld",
+]
+
+resolver = "2"
